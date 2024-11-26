@@ -6,3 +6,4 @@ elif 13 <= eta <18:
         print("Adolescente")
 else:
     print("Adulto")
+  
